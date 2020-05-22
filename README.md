@@ -50,7 +50,7 @@ Estas dos características principales que señalo en estas dos empresas son car
 |Accesibilidad                  |❌	 |❌     |❌
 |Idiomas                        |✔️	  |❌     |❌
 
-Como podemos ver, Cubikate se tiene servicios distintivos de los demás servicios de coworking. Sin embargo, muchas de las características básicas no las ofrece o lo hace de forma indirecta a través de correo electrónico o llamadas telefónicas (precios, tarifas, etc.).
+Como podemos ver, Cubikate ofrece servicios distintivos a las demás alternativas de coworking. Sin embargo, muchas de las características básicas no las ofrece o lo hace de forma indirecta a través de correo electrónico o llamadas telefónicas (precios, tarifas, etc.).
 
 ## 2.2 Interaccion con los usuarios
 
@@ -75,9 +75,9 @@ Guillermo encuentra que aunque el servicio que ofrecen como coworking es esplén
 
 De manera resumida, la web de Cubikate funciona de manera correcta. Sin embargo encuentro algunos errores básicos como la ocultación de información a los usuarios (precios, tarifas...), la poca interacción que el usuario puede hacer con la web (hay muy poca información disponible y no existe un apartado de preguntas frecuentes. Todas las cuestiones hay que resolverlas vía telefónica o contactando a través de formularios o correo electrónico). Estos aspectos, aunque la web sea atractiva y fácil de entender, hacen que el usuario busque otras alternativas que le faciliten esta información antes de tener que contactar de manera directa con los responsables del sitio.
 
-No hay un mapa del sitio claro, pero no se me hace necesario dada la simplicidad del sitio. Aunque también referente a esta simplicidad, todos los menús y el contenido de cada página debería estar mejor distribuidos para tener una vista general que aporte más información en un primer vistazo a la web. Para ofrecer una información tan escuenta y simple, considero que ésta no está muy bien distribuida a través de las diferentes secciones de la web
+No hay un mapa del sitio claro, pero no se me hace necesario dada la simplicidad del sitio. Aunque también referente a esta simplicidad, todos los menús y el contenido de cada página deberían estar mejor distribuidos para tener una vista general que aporte más información en un primer vistazo a la web. Para ofrecer una información tan escuenta y simple, considero que ésta no se encuentra muy bien distribuida a través de las diferentes secciones de la web
 
-Una parte interesante es la referente a la ayuda una vez estamos en la web. Aunque no se incluye una página con las preguntas frecuentes, si que disponemos de un chat online en el que consultar lo que necesitemos. Me parece una funcionalidad muy atractiva pero si se ofrece este servicio hay que tener en cuenta que debe estar siempre activo, o indicar en algún sitio qué horario de operabilidad tiene.
+Una parte interesante es la referente a la ayuda una vez estamos en la web. Aunque no se incluye una página con las preguntas frecuentes, si que disponemos de un chat online en el que consultar lo que necesitemos. Me parece una funcionalidad muy atractiva pero si se ofrece este servicio hay que tener en cuenta que debe estar siempre activo, o indicar en algún sitio qué horario de operabilidad tiene y cual es el tiempo medio de respuesta.
 
 
 
