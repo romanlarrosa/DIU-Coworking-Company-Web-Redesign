@@ -16,7 +16,7 @@ La empresa elegida es [Cubikate](https://cubikate.es/), un espacio de coworking 
 
 
 ---
-## 2. Análisis competitivo
+## 2.1 Análisis competitivo
 
 Cuando queremos mejorar cualquier tipo de producto ya existente, es muy importante fijarse en qué cosas está haciendo bien la competencia, ya que al no tratarse de una idea original y estar siendo ya desarrollada por multitud de empresas, es fácil ver qué cosas están haciendo el resto de empresas bien para partir de un mismo nivel, antes de aportar nuevas ideas que den valor a nuestro producto.
 
@@ -32,28 +32,52 @@ Estas dos características principales que señalo en estas dos empresas son car
 
 | Utilidades / Funcionalidades  | [erranT] | [LaRaum] | [Cubikate]
 |--|--|--|--|
-|Oficina virtual                | ❌	✔️
-|Domiciliación comercial        |
-|Version web móvil              |
-|Alquiler por dias              |
-|Alquiler puesto flexible       |
-|Alquiler puesto fijo           |
-|Precios visibles               |
-|Chat online                    |
-|FAQ                            |
-|Contacto directo sin formularios|
-|Servicios 24/7                 |
-|Comunidad                      |
-|Opiniones de usuarios          |
-|Galería de fotos               |
-|Desglose de servicios          |
-|Accesibilidad                  |
-|Idiomas                        |
+|Oficina virtual                |❌	 |❌     |✔️
+|Domiciliación comercial        |❌	 |❌     |✔️
+|Version web móvil              |✔️	  |✔️     |✔️
+|Alquiler por dias              |✔️	  |✔️     |No se sabe
+|Alquiler puesto flexible       |✔️	  |✔️     |No se sabe
+|Alquiler puesto fijo           |❌ 	 |✔️     |No se sabe
+|Precios visibles               |✔️	  |✔️     |❌
+|Chat online                    |❌	 |❌     |✔️
+|FAQ                            |❌	 |❌     |❌
+|Contacto directo sin formularios|✔️  |✔️     |✔️
+|Servicios 24/7                 |❌ 	 |✔️     |✔️
+|Comunidad                      |✔️	  |✔️     |❌
+|Opiniones de usuarios          |✔️	  |❌     |✔️
+|Galería de fotos               |✔️	  |✔️     |✔️
+|Desglose de servicios          |✔️	  |✔️     |No se detallan todos
+|Accesibilidad                  |❌	 |❌     |❌
+|Idiomas                        |✔️	  |❌     |❌
 
+Como podemos ver, Cubikate se tiene servicios distintivos de los demás servicios de coworking. Sin embargo, muchas de las características básicas no las ofrece o lo hace de forma indirecta a través de correo electrónico o llamadas telefónicas (precios, tarifas, etc.).
 
+## 2.2 Interaccion con los usuarios
 
+Para esta sección utilizaré a una de las personas ficticias que fueron creadas durante el desarrollo del proyecto de servicio colaborativo de la parte práctica de la asignatura DIU. La persona es Guillermo y presenta las siguientes características:
 
+![](/img/Plantilla_Guillermo.png)
 
+### Journey map:
+Cuando Guillermo vuelve a Granada para visitar a sus padres, necesita seguir trabajando en la distancia, pero en su casa no dispone de conexión a internet ni de las comodidades y los servicios que necesita para desempeñar correctamente su actividad. 
+
+Es por ello que, unos días antes de viajar a la ciudad, se dispone a buscar una oficina de coworking, con las que está familiarizado ya que en Madrid las ha usado alguna vez.
+
+Guillermo encuentra la web de Cubikate, y observa que se encuentra en una localización muy interesante. Los servicios que ofrecen en cuanto a instalaciones y herramientas son justo los que necesita para el tiempo que estará en la ciudad. 
+
+Cuando intenta ver las tarifas para comparar con otras opciones de la ciudad, Guillermo se encuentra con que los precios no son visibles en la web, y ni siquiera puede ver las diferentes tarifas existentes y sus condiciones. Por tanto, tampoco se puede reservar un puesto de manera online para los días que él necesita.
+
+Tras sopesar las distintas opciones, decide contactar con la oficina a través del teléfono, porque no puede permitirse no tener un lugar de trabajo durante los días que estará en Granada.
+
+Guillermo encuentra que aunque el servicio que ofrecen como coworking es espléndido y se siente muy cómodo en el espacio, el proceso para alquilar un puesto le ha sido muy tedioso, y en un mundo digital como el que vivimos debería de poder haber alquilado un puesto de manera online, y conocer la oferta de tarifas de la empresa.
+
+## 2.3 Usabilidad
+
+De manera resumida, la web de Cubikate funciona de manera correcta. Sin embargo encuentro algunos errores básicos como la ocultación de información a los usuarios (precios, tarifas...), la poca interacción que el usuario puede hacer con la web (hay muy poca información disponible y no existe un apartado de preguntas frecuentes. Todas las cuestiones hay que resolverlas vía telefónica o contactando a través de formularios o correo electrónico). Estos aspectos, aunque la web sea atractiva y fácil de entender, hacen que el usuario busque otras alternativas que le faciliten esta información antes de tener que contactar de manera directa con los responsables del sitio.
+
+No hay un mapa del sitio claro, pero no se me hace necesario dada la simplicidad del sitio. Aunque también referente a esta simplicidad, todos los menús y el contenido de cada página debería estar mejor distribuidos para tener una vista general que aporte más información en un primer vistazo a la web. Para ofrecer una información tan escuenta y simple, considero que ésta no está muy bien distribuida a través de las diferentes secciones de la web
+
+Una parte interesante es la referente a la ayuda una vez estamos en la web. Aunque no se incluye una página con las preguntas frecuentes, si que disponemos de un chat online en el que consultar lo que necesitemos. Me parece una funcionalidad muy atractiva pero si se ofrece este servicio hay que tener en cuenta que debe estar siempre activo, o indicar en algún sitio qué horario de operabilidad tiene.
 
 
 
