@@ -1,13 +1,13 @@
 # DIU-Coworking-Company-Web-Redesign
- Repositorio dedicado a la realizacion del ejercicio entregable de DIU basado en el rediseño de un portal web de una empresa de coworking
+ Repositorio dedicado a la realización del ejercicio entregable de DIU basado en el rediseño de un portal web de una empresa de coworking
 
 :boy:  [ Román L. L](http://github.com/romanlarrosa)    :octocat:
 
 ---
 ## 1. Introducción
 
-Un espacio de coworking es una oficina en la que profesionales de todo tipo pueden alquilar ciertos recursos para organizar reuniones, eventos, o simplemente desarrollar su actividad en un ambiente de trabajo. Apostar por el uso de espacios de coworking es una tendencia en alza, puesto que aquellos trabajadores que no precisan de una oficina concreta tales como autónomos o freelances, pueden optar por un espacio de trabajo económico y muy lucrativo.
-Una importante ventaja indirecta que se obvserva del uso de espacios de coworking es la gran diversidad de profesionales de los que te puedes ver rodeado, y que en mayor o en menor medida se convierten en tus compañeros, aportando un gran valor ya que en estos espacios el intercambio de ideas, y los puntos de vista diferentes sobre una activdad en concreto se convierten en el nexo de unión de todos los trabajadores, que ven sus proyectos o ideas mejoradso en gran medida por este importante punto de vista externo.
+Un espacio de coworking es una oficina en la que profesionales de todo tipo pueden alquilar ciertos recursos para organizar reuniones, eventos, o simplemente desarrollar su actividad en un ambiente de trabajo. Apostar por el uso de espacios de coworking es una tendencia en alza, puesto que aquellos trabajadores que no precisan de una oficina concreta tales como autónomos o freelances, pueden optar por un espacio de trabajo económico y muy enriquecedor.
+Una importante ventaja indirecta que se obvserva del uso de espacios de coworking es la gran diversidad de profesionales de los que te puedes ver rodeado, y que en mayor o en menor medida se convierten en tus compañeros, aportando un gran valor ya que en estos espacios el intercambio de ideas, y los puntos de vista diferentes sobre una activdad en concreto se convierten en el nexo de unión de todos los trabajadores, que ven sus proyectos o ideas mejorados en gran medida por estos puntos de vista externos.
 
 Durante las siguientes líneas, haré un análisis y propondré algunas mejoras de las funcionalidades o la usabilidad de la web de alguna empresa de coworking de Granada, de manera resumida y compacta.
 
@@ -26,9 +26,11 @@ Una herramienta interesante para encontrar locales que ofrecen el servicio de of
 
 Las empresas que he elgido para comparar sus servicios con los de [Cubikate](https://cubikate.es/) son **[ErranT](https://www.errant.es/es/)**, en Granada, y **[LaRaum](https://www.laraum.com/)** en Madrid.
 
-La elección de estos dos servicios ha sido por presentar características muy diferentes pero que entran dentro de la filosofía de [Cubikate](https://cubikate.es/). Mientras que [ErranT](https://www.errant.es/es/) es una empresa que se enfoca en llegar a un número grande de personas y mantener un espacio con muchos puestos, [LaRaum](https://www.laraum.com/) ofrece un servicio más "premium" con unos espacios más amplios y una estética más minimalista y elegante, sobre todo porque una de las opciones que ofrece son salas de reuniones y pretenden dar una imagen muy profesional a los usuarios que hagan uso de estas para tener por ejemplo reuniones con clientes potenciales.
+La elección de estos dos servicios ha sido por presentar características muy diferentes pero que entran dentro de la filosofía de [Cubikate](https://cubikate.es/). Mientras que [ErranT](https://www.errant.es/es/) es una empresa que se enfoca en llegar a un número grande de personas y mantener un espacio con muchos puestos, [LaRaum](https://www.laraum.com/) ofrece un servicio más "premium" con unos espacios más amplios y una estética más minimalista y elegante, sobre todo porque una de las opciones que ofrece son salas de reuniones y pretenden dar una imagen muy profesional a los usuarios que hagan uso de estas para tener, por ejemplo, reuniones con sus clientes potenciales.
 
-Estas dos características principales que señalo en estas dos empresas son características de las que [Cubikate](https://cubikate.es/) puede sacar provecho puesto que sus instalaciones le permiten en mayor o menor medida el desarrollo de ambas.
+Estas características principales que señalo en estas empresas son características de las que [Cubikate](https://cubikate.es/) puede sacar provecho puesto que sus instalaciones le permiten en mayor o menor medida el desarrollo de ambas.
+
+A continuación he relizado una comparativa de varias características interesantes que pueden mostrar los diferentes servicios que estoy comparando:
 
 | Utilidades / Funcionalidades  | [erranT] | [LaRaum] | [Cubikate]
 |--|--|--|--|
@@ -73,11 +75,11 @@ Guillermo encuentra que aunque el servicio que ofrecen como coworking es esplén
 
 ## 2.3 Usabilidad
 
-De manera resumida, la web de Cubikate funciona de manera correcta. Sin embargo encuentro algunos errores básicos como la ocultación de información a los usuarios (precios, tarifas...), la poca interacción que el usuario puede hacer con la web (hay muy poca información disponible y no existe un apartado de preguntas frecuentes. Todas las cuestiones hay que resolverlas vía telefónica o contactando a través de formularios o correo electrónico). Estos aspectos, aunque la web sea atractiva y fácil de entender, hacen que el usuario busque otras alternativas que le faciliten esta información antes de tener que contactar de manera directa con los responsables del sitio.
+De manera resumida, la web de Cubikate funciona de correctamente. Sin embargo encuentro algunos errores básicos como la ocultación de información a los usuarios (precios, tarifas...), la poca interacción que el usuario puede hacer con la web (hay muy poca información disponible y no existe un apartado de preguntas frecuentes. Todas las cuestiones hay que resolverlas vía telefónica o contactando a través de formularios o correo electrónico). Estos aspectos, aunque la web sea atractiva y fácil de entender, hacen que el usuario busque otras alternativas que le faciliten esta información antes de tener que contactar de manera directa con los responsables del sitio.
 
 No hay un mapa del sitio claro, pero no se me hace necesario dada la simplicidad del sitio. Aunque también referente a esta simplicidad, todos los menús y el contenido de cada página deberían estar mejor distribuidos para tener una vista general que aporte más información en un primer vistazo a la web. Para ofrecer una información tan escuenta y simple, considero que ésta no se encuentra muy bien distribuida a través de las diferentes secciones de la web
 
-Una parte interesante es la referente a la ayuda una vez estamos en la web. Aunque no se incluye una página con las preguntas frecuentes, si que disponemos de un chat online en el que consultar lo que necesitemos. Me parece una funcionalidad muy atractiva pero si se ofrece este servicio hay que tener en cuenta que debe estar siempre activo, o indicar en algún sitio qué horario de operabilidad tiene y cual es el tiempo medio de respuesta.
+Una parte interesante es la referente a la ayuda una vez estamos en la web. Aunque no se incluye una página con las preguntas frecuentes, si que disponemos de un chat online en el que consultar lo que necesitemos. Me parece una funcionalidad muy atractiva pero si se ofrece este servicio hay que tener en cuenta que debe estar siempre activo, o indicar en algún sitio qué horario de operabilidad tiene y cuál es el tiempo medio de respuesta.
 
 ---
 ## 3. UX Design
@@ -101,7 +103,7 @@ Una parte interesante es la referente a la ayuda una vez estamos en la web. Aunq
 
 #### Nuevas ideas
 * COMUNICACIÓN: Mostrar información sore las tarifas y los precios de éstas. Añadir más idiomas a la web.
-* NAVEGACIÓN: Realizar una sección en el menú para detallar los servicios, qué tarifas los incluyen y los precios de las mismas
+* NAVEGACIÓN: Realizar una sección en el menú para detallar los servicios, qué tarifas los incluyen y los precios de las mismas.
 * ENGAGEMENT: Posibilitar la adquisición de las distintas tarifas a través de internet en los horarios que aún quedan disponibles.
 
 ### 3.2 Propuesta de valor
