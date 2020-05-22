@@ -79,6 +79,43 @@ No hay un mapa del sitio claro, pero no se me hace necesario dada la simplicidad
 
 Una parte interesante es la referente a la ayuda una vez estamos en la web. Aunque no se incluye una página con las preguntas frecuentes, si que disponemos de un chat online en el que consultar lo que necesitemos. Me parece una funcionalidad muy atractiva pero si se ofrece este servicio hay que tener en cuenta que debe estar siempre activo, o indicar en algún sitio qué horario de operabilidad tiene y cual es el tiempo medio de respuesta.
 
+---
+## 3. UX Design
+
+### 3.1 Feedback capture grid
+
+#### Interesante / relevante:
+* Chat online para responder dudas
+* Servicio de oficina online con domiciliación fiscal
+* Web muy simple y amigable
+
+#### Críticas
+* Interacción unicamente a través de formulario
+* No se describen las tarifas ni los servicios asociados
+* No hay posibilidad de hacer una reserva online
+
+#### Preguntas
+* ¿Qué tarifas hay disponibles?
+* ¿Qué servicios y a que precios se ofertan?
+* ¿Cómo son las salas de reuniones?
+
+#### Nuevas ideas
+* COMUNICACIÓN: Mostrar información sore las tarifas y los precios de éstas. Añadir más idiomas a la web.
+* NAVEGACIÓN: Realizar una sección en el menú para detallar los servicios, qué tarifas los incluyen y los precios de las mismas
+* ENGAGEMENT: Posibilitar la adquisición de las distintas tarifas a través de internet en los horarios que aún quedan disponibles.
+
+### 3.2 Propuesta de valor
+
+La propuesta de valor se basaría en:
+* La inclusión de un espacio en la web para mostrar las tarifas disponibles
+* Realizar la adquisición de las tarifas y el alquiler de los espaicos disponibles según el horario.
+* Traducir la web a diferentes idiomas, como mínimo el inglés.
+
+### 3.3 Sitemap
+
+El sitemap del sitio quedaría tal que así, incluyendo las secciones de tarifas y de reserva:
+
+
 
 
 
