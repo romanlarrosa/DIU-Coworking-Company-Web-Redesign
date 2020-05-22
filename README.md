@@ -6,7 +6,7 @@
 ---
 ## 1. Introducción
 
-Un espacio de coworking es una oficina en la que profesionales de todo tipo pueden alquilar ciertos recursos para organizar reuniones, eventos, o simplemente desarrollar su actividad en un ambiente de trabajo. Apostar por el uso de espacios de coworking es una tendencia en alza, puesto que aquellos trabajadores que no precisan de una oficina concreta tales como autónomos o freelances, pueden optar por un espacio de trabajo económico y muy luvrativo.
+Un espacio de coworking es una oficina en la que profesionales de todo tipo pueden alquilar ciertos recursos para organizar reuniones, eventos, o simplemente desarrollar su actividad en un ambiente de trabajo. Apostar por el uso de espacios de coworking es una tendencia en alza, puesto que aquellos trabajadores que no precisan de una oficina concreta tales como autónomos o freelances, pueden optar por un espacio de trabajo económico y muy lucrativo.
 Una importante ventaja indirecta que se obvserva del uso de espacios de coworking es la gran diversidad de profesionales de los que te puedes ver rodeado, y que en mayor o en menor medida se convierten en tus compañeros, aportando un gran valor ya que en estos espacios el intercambio de ideas, y los puntos de vista diferentes sobre una activdad en concreto se convierten en el nexo de unión de todos los trabajadores, que ven sus proyectos o ideas mejoradso en gran medida por este importante punto de vista externo.
 
 Durante las siguientes líneas, haré un análisis y propondré algunas mejoras de las funcionalidades o la usabilidad de la web de alguna empresa de coworking de Granada, de manera resumida y compacta.
@@ -114,6 +114,30 @@ La propuesta de valor se basaría en:
 ### 3.3 Sitemap
 
 El sitemap del sitio quedaría tal que así, incluyendo las secciones de tarifas y de reserva:
+![](/img/sitemap.png)
+
+### 3.4 Labelling
+
+El labelling del sitio quedaría igual, incluyendo únicamente los términos:
+
+|Término|Descripción|
+|--|--|
+|Tarifas| Los diferentes packs de servicios disponibles para su adquisición, y el coste de los mismos
+|Alquiler|Pasarela de pago para adquirir una de las tarifas o el uso de la sala de reuniones.
+
+### 3.5 Wireframes
+Los wireframes de las dos paginas que necesitariamos para implementar las nuevas funcionalidades serían así:
+
+![](/img/tarifas.png)
+
+![](/img/alquiler.png)
+
+## 4. Decisiones de diseño
+
+El diseño de la web y su iconografía son constistentes y están adaptados a la actualidad dando una impresión moderna y elegante, por lo que las nuevas funcionalidades seguirían estos mismos patrones y guidelines para integrarse de manera correcta en el sitio web.
+
+Cubikate ya tiene trabajada su imagen de marca, y estas nuevas funcionalidades únicamente tienen que integrarse para formar parte del diseño que ya hay implementado.
+
 
 
 
